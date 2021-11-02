@@ -1,0 +1,10 @@
+*.pyc
+runs/*
+*.json
+*.jpg
+*.weights
+*.pt
+*.jpg
+*.png
+*.txt
+utils/utils_bak.py
